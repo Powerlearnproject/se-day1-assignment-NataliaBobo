@@ -66,15 +66,19 @@ An integrated development environment (IDE) is a software platform that facilita
  Importance:
 a) Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many 
    intelligent features for automatically writing or editing the source code.
-b) An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These 
-   visual cues make the source code more readable and give instant feedback about accidental syntax errors.
+
+b) An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
+
 c) An IDE can make suggestions to complete a code statement when the developer begins typing.
+
 d) IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. 
+
 e) An IDE compiles or converts the code into a simplified language that the operating system can understand. 
+
 f) The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and 
    more complex integration tests are run.
-g) Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several 
-   debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
+
+g) Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems(VCS) -They are software tools that help software teams manage changes to source code over time.eg Git
 
