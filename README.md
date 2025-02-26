@@ -16,7 +16,9 @@ A) Explain what software engineering is and discuss its importance in the techno
 
  B) Identify and describe at least three key milestones in the evolution of software engineering.   
 Mastering complexity - This is the ability of managing and minimizing the interactions within a software system by having design principles, coding practices and development modules.  
-Mastering process - This is the ability to develop strong problem solving skills, and understand the entire software development life cycle. 
+
+Mastering process - This is the ability to develop strong problem solving skills, and understand the entire software development life cycle.                                                                                                                      
+
 Mastering machine - This is gaining a deeper understanding of the machine learning algorithms, techniques and practices to integrate them to software development.
 
 C) List and briefly explain the phases of the Software Development Life Cycle.
