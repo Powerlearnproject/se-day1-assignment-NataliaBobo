@@ -83,29 +83,39 @@ g) Debugging IDE enables a step through the code, line by line, as it runs and i
 Version Control Systems(VCS) -They are software tools that help software teams manage changes to source code over time.eg Git
 
 Importance:
+ 
   - Collaboration: Enables multiple developers to work on the same codebase without conflicts.
+ 
   - Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
+  
   - Branching and Merging: Supports creating branches for new features and merging them back into the main code.
+  
   - Error Recovery: Allows reverting to previous versions if new changes introduce errors.
 
 G) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 - Rapid technological advancement places considerable pressure on software engineers to stay current.
      Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their 
                skills sharp in an ever-evolving industry. -
+
 - Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high 
                      pressure to meet tight deadlines.
      Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable 
                sprints. 
+
 - Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data 
                            storage architectures. 
       Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
+
 - Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it 
                                    challenging for engineers to design and develop solutions that meet users' needs while 
                                    accounting for future updates and bug fixes. 
       Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and 
                 modular design, which enables flexibility by breaking systems into manageable, independent components.
+
 - Software Security - Programming secure software is a complex and challenging task. 
             Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
+
 - Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
            Solution: Use scalable architecture, Emphasize reliability.
 
@@ -114,11 +124,14 @@ H) Explain the different types of testing (unit, integration, system, and accept
               classes, components, or modules used by your software. 
             - it ensures that each unit performs its intended function correctly, 
               isolated from other components.
+ 
  Integration tests - verify that different modules or services used by your application work well together.
                    - help to ensure data flows smoothly between modules and interfaces work as expected.
- System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
-                -It help to verify that the system meets all functional and non-functional requirements, including performance, 
-                 usability, and security .
+ 
+ System testing - Focus on the entire software system as a whole, including all functionalities and interactions.
+                - It help to verify that the system meets all functional and non-functional requirements, including performance, 
+                  usability, and security .
+
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application 
                    to be running while testing and focus on replicating user behaviors. 
                  - Whether the software meets the needs of the end-user and is ready for deployment.
@@ -132,6 +145,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is the process where you guide generative AI solutions to generate desired outputs.
 
 Importance:
+
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 Developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
