@@ -41,15 +41,18 @@ Agile methodology - Iterative and incremental, with multiple cycles (sprints).
       - Testing is continuous and done after each iteration.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer - They develop applications,programs and systems using programming languages and frameworks.
                    - maintaining and updating software to keep it functional. 
                    - collaborating with other team members to ensure best practice when developing software.
                    - reporting to the project manager about the progress of the software development.
+
 Quality Assurance Engineer - They collaborate with stakeholders to understand and clarify software requirement.
                            - create development standards and procedures for the programmers to follow
                            - confirm that the software meets the requirement before deployment. 
                            - analyse the product to identify bugs and suggest changes to make them more efficient. 
                            - develop and execute automation scripts using open source tools.
+
 Project Manager -They assembles and lead the software development team.
                 - discuss the project and it's requirement with the client and software developers.
                 - create blueprint for the project.
@@ -57,8 +60,10 @@ Project Manager -They assembles and lead the software development team.
                 - deliver the complete software to the client and regularly check its performance.
 
 F) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
-importance:
+
+An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode).
+ 
+ Importance:
 a) Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many 
    intelligent features for automatically writing or editing the source code.
 b) An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These 
@@ -71,7 +76,8 @@ f) The IDE allows developers to automate unit tests locally before the software 
 g) Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several 
    debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
-    Version Control Systems(VCS) -They are software tools that help software teams manage changes to source code over time.eg Git
+Version Control Systems(VCS) -They are software tools that help software teams manage changes to source code over time.eg Git
+
 Importance:
   - Collaboration: Enables multiple developers to work on the same codebase without conflicts.
   - Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
@@ -120,15 +126,19 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the process where you guide generative AI solutions to generate desired outputs.
+
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 Developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague prompt: Tell me about stuff online.
-Improved Prompt: Provide a summary of current trends in social media usage on X as of February 2025.
+ 
+ Improved Prompt: Provide a summary of current trends in social media usage on X as of February 2025.
 This version is clear, specific, and concise. It names the platform (X), focuses on a topic (social media usage trends), and sets a time frame (February 2025).
+
 Why It’s More Effective: The improved prompt gives me a precise target to aim for, ensuring the response is relevant and tailored to the user’s likely interest. It reduces ambiguity, saves time, and delivers a more useful answer by narrowing the scope from "everything online" to a specific slice of information.
 
 
